@@ -1,2 +1,0 @@
-# graphql
-Testing out graphql
